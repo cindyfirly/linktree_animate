@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+#wrapper {
+    max-width: 500px;
+    background-image: url(WhatsApp\ Image\ 2022-11-08\ at\ 13.50.37.jpeg);
+}
+#content {
+    width: 100%;
+}
+#content img {
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+   background-color: black;
+}
+#content a {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    width: 250px;
+    height: 30px;
+    padding-top: 20px;
+    border: 3px solid #cc9191;
+    border-radius: 5px;
+    display: inline-block;
+}
+#content a:hover {
+    background-color: #cc9191;
+    color: white;
+    border: 3px solid gray;
+    border-radius: 5px;
+}
+.link{
+    margin-top: 10px;
+    padding-top: 5px;
+}
+#footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    color: #cc9191;
+    font-weight: bold;
+    background-color: z;
+}
+
+
